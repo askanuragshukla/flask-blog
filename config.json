@@ -1,0 +1,21 @@
+{
+
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/flaskcoding",
+    "prod_uri": "mysql://root:@localhost/flaskcoding",
+    "blog_name": "Ask Anurag Shukla",
+    "fb_url": "fb url",
+    "tw_url": "twitter",
+    "git_url": "github",
+    "gmail-user": "user id",
+    "gmail-password": "password",
+    "about_text": "Hello this is Anurag Shukla",
+    "no_of_posts": 5,
+    "admin_user": "anurag",
+    "admin_password": "anurag",
+    "upload_location": "C:\\Users\\anurag shukla\\Desktop\\web devlopment\\startbootstrap-clean-blog-gh-pages\\flaskblog"
+
+  }
+
+}
